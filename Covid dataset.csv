@@ -1,0 +1,149 @@
+State,County,Confirmed_cases,deaths,Population
+Louisiana,Acadia,152,11,62568
+Louisiana,Allen,90,9,25661
+Louisiana,Ascension,695,48,121176
+Louisiana,Assumption,228,11,22714
+Louisiana,Avoyelles,75,7,40882
+Louisiana,Beauregard,46,4,36769
+Louisiana,Bienville,78,20,13668
+Louisiana,Bossier,312,21,126131
+Louisiana,Caddo,1765,133,248361
+Louisiana,Calcasieu,496,38,200182
+Louisiana,Caldwell,48,NA,9996
+Louisiana,Cameron,3,NA,6868
+Louisiana,Catahoula,85,3,9893
+Louisiana,Claiborne,59,9,16153
+Louisiana,Concordia,43,4,20021
+Louisiana,De Soto,215,14,27216
+Louisiana,East Baton Rouge,2398,188,444094
+Louisiana,East Carroll,23,NA,7225
+Louisiana,East Feliciana,136,21,19499
+Louisiana,Evangeline,67,1,33636
+Louisiana,Franklin,208,4,20322
+Louisiana,Grant,18,NA,22348
+Louisiana,Iberia,286,26,72691
+Louisiana,Iberville,501,36,32956
+Louisiana,Jackson,67,5,15926
+Louisiana,Jefferson,6755,402,435300
+Louisiana,Jefferson Davis,68,6,31467
+Louisiana,Lafayette,508,22,240091
+Louisiana,Lafourche,713,59,98214
+Louisiana,Lincoln,107,11,47356
+Louisiana,Livingston,281,24,138111
+Louisiana,Madison,13,NA,11472
+Louisiana,Morehouse,65,5,25992
+Louisiana,Natchitoches,100,9,38963
+Louisiana,Orleans,6693,470,389648
+Louisiana,Ouachita,842,25,156075
+Louisiana,Plaquemines,190,17,23373
+Louisiana,Pointe Coupee,136,17,22158
+Louisiana,Rapides,370,13,131546
+Louisiana,Red River,36,6,8618
+Louisiana,Richland,103,1,20474
+Louisiana,Sabine,19,1,24088
+Louisiana,St. Bernard,514,20,45694
+Louisiana,St. Charles,595,43,52724
+Louisiana,St. Helena,35,1,10411
+Louisiana,St. James,257,20,21357
+Louisiana,St. John the Baptist,801,77,43446
+Louisiana,St. Landry,215,50,83449
+Louisiana,St. Martin,260,21,53752
+Louisiana,St. Mary,250,26,51734
+Louisiana,St. Tammany,1463,136,252093
+Louisiana,Tangipahoa,670,28,130504
+Louisiana,Tensas,6,NA,4666
+Louisiana,Terrebonne,528,39,112587
+Louisiana,Union,169,10,22475
+Louisiana,Vermilion,41,2,59867
+Louisiana,Vernon,18,2,51007
+Louisiana,Washington,342,26,46457
+Louisiana,Webster,100,4,39631
+Louisiana,West Baton Rouge,123,29,25860
+Louisiana,West Carroll,5,NA,11180
+Louisiana,West Feliciana,184,6,15377
+Louisiana,Winn,52,2,14494
+District of Columbia,Washington,6389,328,720687
+Rhode Island,Providence,8674,342,634533
+Rhode Island,Kent,859,46,163861
+Rhode Island,Washington,407,32,126242
+Rhode Island,Newport,182,4,83075
+Rhode Island,Bristol,171,0,48900
+Michigan,Alcona,4,1,10364
+Michigan,Allegan,150,2,115250
+Michigan,Alpena,87,8,28612
+Michigan,Antrim,10,,23177
+Michigan,Arenac,27,1,15165
+Michigan,Baraga,1,,8507
+Michigan,Barry,48,1,60057
+Michigan,Bay,192,9,104786
+Michigan,Benzie,4,,17552
+Michigan,Berrien,391,22,154807
+Michigan,Branch,79,2,43584
+Michigan,Calhoun,260,17,134473
+Michigan,Cass,41,2,51460
+Michigan,Charlevoix,13,1,26219
+Michigan,Cheboygan,19,1,25458
+Michigan,Chippewa,2,,37834
+Michigan,Clare,12,2,30616
+Michigan,Clinton,126,10,77896
+Michigan,Crawford,57,4,13836
+Michigan,Delta,14,2,36190
+Michigan,Dickinson,5,2,25570
+Michigan,Eaton,150,6,109155
+Michigan,Emmet,21,2,33039
+Michigan,Genesee,1758,224,409361
+Michigan,Gladwin,17,1,25289
+Michigan,Gogebic,4,1,15414
+Michigan,Grand Traverse,20,5,91746
+Michigan,Gratiot,31,3,41067
+Michigan,Hillsdale,152,21,45830
+Michigan,Houghton,2,,36360
+Michigan,Huron,35,1,31543
+Michigan,Ingham,579,16,289564
+Michigan,Ionia,108,2,64176
+Michigan,Iosco,55,8,25247
+Michigan,Isabella,62,7,70775
+Michigan,Jackson,393,26,158913
+Michigan,Kalamazoo,601,29,261573
+Michigan,Kalkaska,18,2,17463
+Michigan,Kent,2281,41,643140
+Michigan,Lake,2,,11763
+Michigan,Lapeer,176,29,88202
+Michigan,Leelanau,9,,21639
+Michigan,Lenawee,127,2,98474
+Michigan,Livingston,376,22,188482
+Michigan,Luce,1,,6364
+Michigan,Mackinac,6,,10817
+Michigan,Macomb,6042,698,868704
+Michigan,Manistee,11,,24444
+Michigan,Marquette,51,10,66939
+Michigan,Mason,21,,28884
+Michigan,Mecosta,16,2,43264
+Michigan,Menominee,6,,23234
+Michigan,Midland,66,8,83389
+Michigan,Missaukee,16,1,15006
+Michigan,Monroe,389,16,149699
+Michigan,Montcalm,46,1,63209
+Michigan,Montmorency,5,,9261
+Michigan,Muskegon,367,20,173043
+Michigan,Newaygo,34,,48142
+Michigan,Oakland,7736,843,1250843
+Michigan,Oceana,28,1,26417
+Michigan,Ogemaw,15,,20928
+Michigan,Osceola,9,,23232
+Michigan,Oscoda,5,1,8277
+Michigan,Otsego,97,9,24397
+Michigan,Ottawa,388,19,284034
+Michigan,Presque Isle,11,,12797
+Michigan,Roscommon,20,,23877
+Michigan,Saginaw,789,83,192778
+Michigan,St. Clair,37,5,41376
+Michigan,St. Joseph,4,,8069
+Michigan,Sanilac,204,17,68493
+Michigan,Schoolcraft,357,25,159566
+Michigan,Shiawassee,65,1,60897
+Michigan,Tuscola,134,17,53250
+Michigan,Van Buren,88,4,75272
+Michigan,Washtenaw,1182,81,365961
+Michigan,Wayne,18075,2097,1761382
+Michigan,Wexford,11,2,33111
